@@ -840,6 +840,9 @@ form .alert {
   .navbar-main .navbar-brand {
     padding: 6px 15px;
   }
+  .navbar-brand img{
+    width: 34px;
+  }
   .navbar-main .submenu {
     position: initial;
     display: none;
